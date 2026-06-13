@@ -4,7 +4,7 @@
 
 ---
 
-**[🌐 Live App](https://premiumiq.vercel.app/))
+**[🌐 Live App](https://premiumiq.vercel.app/)
 ## What This Project Actually Does
 
 Most ML projects stop at a Jupyter notebook. This one doesn't.
