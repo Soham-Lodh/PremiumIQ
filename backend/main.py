@@ -208,6 +208,7 @@ def predict(req: PredictionRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 
+
 @app.get("/")
 def root():
     return {"message": "Insurance Premium Predictor API. POST to /predict"}
